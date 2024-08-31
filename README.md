@@ -6,7 +6,5 @@ Currently focusing on containers and container orchestration. Subject matter exp
 
 Interested in opportunities to further promote container adoption.
 
-<a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=henriquessantana" target="_black">Follow link</a>
-
 <a href="https://www.linkedin.com/in/henriquessantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
